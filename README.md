@@ -1,5 +1,5 @@
 # MUSCLE-Hamstring-Injury-Prediction-EIT
-# MUSCLE-Hamstring-Injury-Prediction-EIT
+
 **MUSCLE: Muscle Understanding through Synthetic Computation and Lesion Evaluation | A Semi-Synthetic Dataset for Hamstring Injury Prediction**
 
 Using Electrical ImpedanceHamstring Injuries (HSI) are extremely common among athletes and require an extended rehabilitation period before the Return to Sport (RTS). After HSI, athletes go through a physical examination which in most cases is not enough to assess the severity of the injury or the rehabilitation process. Therefore, imaging techniques (such as Magnetic Resonance Imaging (MRI)) are usually employed which allow for a more detailed evaluation of the case at hand, and permits medical professionals to better assess the optimal rehabilitation process and time to RTS. Due to the impact HSI has on an athlete's career, it is essential to be able to predict it before its occurrence.    
